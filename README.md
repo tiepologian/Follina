@@ -10,3 +10,5 @@ Running the script will generate an `infected.zip` archive that contains two fil
 2. Run `./follina.py`
 3. Copy and extract the `infected.zip` on the target machine
 4. From the target machine, open `one-click.doc` or simply preview `zero-click.rtf`
+
+<img src="https://i.ibb.co/FH0M3cC/follina-01.png" width="500" />
