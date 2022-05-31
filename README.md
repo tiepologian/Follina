@@ -6,7 +6,7 @@ Running the script will generate an `infected.zip` archive that contains two fil
 * A `one-click.doc` file that triggers the exploit when opened
 
 # Usage
-1. Edit `follina.py` and set `COMMAND` to execute, `INTERFACE` (*defaults to eth0*) and `PORT` (*defaults to 8000*)
+1. Edit `follina.py` and set `COMMAND` to execute (*defaults to calc*), `INTERFACE` (*defaults to eth0*) and `PORT` (*defaults to 8000*)
 2. Run `./follina.py`
 3. Copy and extract the `infected.zip` on the target machine
 4. From the target machine, open `one-click.doc` or simply preview `zero-click.rtf`
